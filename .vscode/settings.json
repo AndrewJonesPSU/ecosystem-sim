@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/UnrealProjects/EcosystemSim/.vscode": true,
+		"D:/UnrealProjects/EcosystemSim/Content": true,
+		"D:/UnrealProjects/EcosystemSim/Intermediate": true
+	}
+}
